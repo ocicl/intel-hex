@@ -1,0 +1,10 @@
+* intel-hex
+
+A library for Common Lisp to handle Intel HEX format, which is a file format that conveys binary information in ASCII text form.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/takagi/intel-hex.git   |
+| commit  | 9be3280  |
+| systems | intel-hex |
+|---------+-------------------------------------------|
+
